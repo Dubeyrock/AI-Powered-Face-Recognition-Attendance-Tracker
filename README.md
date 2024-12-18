@@ -19,15 +19,15 @@ User-friendly interface for easy management.
 
 ## Technology used :
 
-## Frontend: HTML, CSS, JavaScript
+ Frontend: HTML, CSS, JavaScript
 
-## Backend: Python (Flask), OpenCV
+ Backend: Python (Flask), OpenCV
 
-## Machine Learning: scikit-learn, KNeighborsClassifier
+ Machine Learning: scikit-learn, KNeighborsClassifier
 
-## Database: SQLite/MySQL, CSV (for simple storage)
+ Database: SQLite/MySQL, CSV (for simple storage)
 
-## Libraries: Pandas, NumPy, Joblib, datetime
+ Libraries: Pandas, NumPy, Joblib, datetime
 
 ## demo project
 
