@@ -8,18 +8,30 @@ This system adapts to variations in lighting, facial expressions, and aging, ens
 
 
 ## Key Features:
-Real-time, contactless attendance tracking.
-Accurate facial recognition with high security.
-Adapts to lighting, facial expressions, and aging.
-User-friendly interface for easy management.
-## Technology used : 
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Flask), OpenCV
-Machine Learning: scikit-learn, KNeighborsClassifier
-Database: SQLite/MySQL, CSV (for simple storage)
-Libraries: Pandas, NumPy, Joblib, datetime
 
-## demo 
+Real-time, contactless attendance tracking.
+
+Accurate facial recognition with high security.
+
+Adapts to lighting, facial expressions, and aging.
+
+User-friendly interface for easy management.
+
+## Technology used :
+
+## Frontend: HTML, CSS, JavaScript
+
+## Backend: Python (Flask), OpenCV
+
+## Machine Learning: scikit-learn, KNeighborsClassifier
+
+## Database: SQLite/MySQL, CSV (for simple storage)
+
+## Libraries: Pandas, NumPy, Joblib, datetime
+
+## demo project
+
+![image](https://github.com/user-attachments/assets/817b5479-e430-41e4-8880-f4d3266e2f5f)
 
 ![image](https://github.com/user-attachments/assets/c74e4ad0-234e-46c5-820f-724e8b33ecc9)
 
